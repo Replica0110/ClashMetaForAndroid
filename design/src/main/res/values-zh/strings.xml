@@ -115,12 +115,6 @@
     <string name="external_controller_tls">外部控制器 TLS</string>
     <string name="allow_origins">外部控制器允许来源</string>
     <string name="allow_private_network">外部控制器允许私有网络</string>
-    <string name="external_controller">外部控制器</string>
-    <string name="external_controller">外部控制器</string>
-    <string name="external_controller">外部控制器</string>
-    <string name="external_controller_tls">外部控制器 TLS</string>
-    <string name="allow_origins">外部控制器允许来源</string>
-    <string name="allow_private_network">外部控制器允许私有网络</string>
     <string name="secret">密钥</string>
     <string name="hosts">主机</string>
     <string name="enabled">已启用</string>
